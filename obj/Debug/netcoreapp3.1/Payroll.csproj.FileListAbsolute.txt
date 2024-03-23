@@ -1,0 +1,12 @@
+/Users/mmd1fmt/Projects/Payroll/Payroll/bin/Debug/netcoreapp3.1/Payroll.deps.json
+/Users/mmd1fmt/Projects/Payroll/Payroll/bin/Debug/netcoreapp3.1/Payroll.runtimeconfig.json
+/Users/mmd1fmt/Projects/Payroll/Payroll/bin/Debug/netcoreapp3.1/Payroll.runtimeconfig.dev.json
+/Users/mmd1fmt/Projects/Payroll/Payroll/bin/Debug/netcoreapp3.1/Payroll.dll
+/Users/mmd1fmt/Projects/Payroll/Payroll/bin/Debug/netcoreapp3.1/Payroll.pdb
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.csprojAssemblyReference.cache
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.csproj.CoreCompileInputs.cache
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.AssemblyInfoInputs.cache
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.AssemblyInfo.cs
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.dll
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.pdb
+/Users/mmd1fmt/Projects/Payroll/Payroll/obj/Debug/netcoreapp3.1/Payroll.genruntimeconfig.cache

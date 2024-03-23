@@ -1,0 +1,6 @@
+(Manager) Yvonne, Manager
+(Manager) Peter, Manager
+(Manager) Bill, Manager
+(Admin) Carol, Admin
+(Admin) Sally, Admin
+(Admin) Smitty, Admin
